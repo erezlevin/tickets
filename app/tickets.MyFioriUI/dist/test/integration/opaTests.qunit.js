@@ -1,0 +1,2 @@
+sap.ui.require(["sap/fe/test/JourneyRunner","tickets/MyFioriUI/test/integration/FirstJourney","tickets/MyFioriUI/test/integration/pages/TicketsList","tickets/MyFioriUI/test/integration/pages/TicketsObjectPage"],function(t,e,i,s){"use strict";var t=new t({launchUrl:sap.ui.require.toUrl("tickets/MyFioriUI")+"/index.html"});t.run({pages:{onTheTicketsList:i,onTheTicketsObjectPage:s}},e.run)});
+//# sourceMappingURL=opaTests.qunit.js.map

@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://lcap-int.launchpad.cfapps.sap.hana.ondemand.com/lcaptickets.ticketsLaunchpad-1.0.0",
+  "DeployedUTCTime": "2023-05-14T11:46:56.403Z",
+  "ApplicationLogURL": "https://logs.cf.sap.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:tickets-srv)))))"
+}
